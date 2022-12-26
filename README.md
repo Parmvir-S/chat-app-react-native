@@ -1,6 +1,6 @@
 
 # Real-Time Chat Application
-![Signal logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/1200px-Signal-Logo.svg.png)
+![Signal logo](https://assets.mofoprod.net/network/images/signal.original.jpg)
 ## Purpose
 
 The purpose of this chat application is to provide users with a simple way to communicate with each other in real-time. The user interface of the app was inspired by the popular messaging app Signal and has been built using Expo, React Native, and Firebase.
